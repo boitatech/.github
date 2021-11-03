@@ -13,7 +13,7 @@
     <a href="https://www.youtube.com/channel/UC7HAEoQjhtcCFWjgcivluyA">
         <img src="https://img.shields.io/badge/YouTube-000000?style=for-the-badge&logo=youtube">
     </a>
-    <a href="https://discord.gg/DtfrBeFM">
+    <a href="https://discord.gg/SCSf3ZCN">
         <img src="https://img.shields.io/badge/Discord-000000?style=for-the-badge&logo=discord">
     </a>
     <a href="https://t.me/joinchat/KTtBv0wfkGHxPQhrbrE1Hw">
