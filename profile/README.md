@@ -1,6 +1,6 @@
 <h1 align="center"> Boitatech Community </h1>
 
-<p align='center'> Boitatech, criada em 18/04/2017, é uma comunidade voltada à hacking e programação. <br> O nome tem origem na lenda tupi-guarani do Boitatá, que explica o fenômeno do fogo-fátuo </p>
+<p align='center'> Boitatech, criada em 18/04/2020, é uma comunidade voltada à hacking e programação. <br> O nome tem origem na lenda tupi-guarani do Boitatá, que explica o fenômeno do fogo-fátuo </p>
 
 <div align='center'>
     <img src='https://i.imgur.com/L9nmyHE.png' width="300" height="300">
