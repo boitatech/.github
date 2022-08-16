@@ -8,7 +8,10 @@
 
 <div align='center'>
     <img src='https://aratu.boitatech.com.br/images-event/logo-large.png'>
+    <h3>05 a 11 de Setembro      20 Palestrantes      Online & Gratuito</h3>
 </div>
+
+
 
 <br>
 <br>
