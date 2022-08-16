@@ -6,6 +6,13 @@
     <img src='https://i.imgur.com/L9nmyHE.png' width="300" height="300">
 </div>
 
+<div align='center'>
+    <img src='https://aratu.boitatech.com.br/images-event/logo-large.png'>
+</div>
+
+<br>
+<br>
+
 <p align="center">
     <a href="https://www.twitch.tv/boitatech">
         <img src="https://img.shields.io/badge/Twitch-000000?style=for-the-badge&logo=twitch">
