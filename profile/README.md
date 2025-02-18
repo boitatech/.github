@@ -6,10 +6,10 @@
     <img src='https://i.imgur.com/L9nmyHE.png' width="300" height="300">
 </div>
 
-
-
-
 <br>
+
+
+
 <br>
 
 <p align="center">
@@ -21,8 +21,5 @@
     </a>
     <a href="https://discord.gg/boitatech">
         <img src="https://img.shields.io/badge/Discord-000000?style=for-the-badge&logo=discord">
-    </a>
-    <a href="https://t.me/joinchat/KTtBv0wfkGHxPQhrbrE1Hw">
-        <img src="https://img.shields.io/badge/Telegram-000000?style=for-the-badge&logo=telegram">
     </a>
 </p>
